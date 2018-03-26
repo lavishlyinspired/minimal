@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 ---
 Hello How are **you**
 Text can be **bold**, _italic_, or ~~strikethrough~~.
