@@ -4,7 +4,7 @@ layout: page
 Hello How are **you**
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[HEllo](another-page).
 
 There should be whitespace between paragraphs.
 
